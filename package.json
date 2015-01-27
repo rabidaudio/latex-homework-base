@@ -9,7 +9,7 @@
     "grunt-contrib-copy": "^0.7.0",
     "grunt-contrib-watch": "^0.6.1",
     "grunt-editor": "^0.1.0",
-    "grunt-latex": "^0.2.2",
+    "grunt-latex": "git://github.com/rabidaudio/grunt-latex",
     "grunt-open": "^0.2.3"
   },
   "devDependencies": {},
