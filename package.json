@@ -1,0 +1,23 @@
+{
+  "name": "latex-homework-builds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-copy": "^0.7.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-editor": "^0.1.0",
+    "grunt-latex": "^0.2.2",
+    "grunt-open": "^0.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charles Julian Knight, cjk@gatech.edu",
+  "license": "GPL",
+  "editor": "subl",
+  "template": "template.tex"
+}
